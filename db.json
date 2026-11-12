@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Сдать КТ по сетевому взаимодействию",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Настроить конфигурацию AbortController",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Убрать рабочее место по ТБ",
+      "completed": false
+    },
+    {
+      "id": "ICjnhXDq8U4",
+      "title": "😁😁",
+      "sub": "😀😀 · Дома",
+      "dot": "#A8DADC",
+      "completed": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
