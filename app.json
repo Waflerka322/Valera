@@ -1,5 +1,22 @@
 {
-  "plugins": [
-    "expo-status-bar"
-  ]
+  "expo": {
+    "name": "Valera",
+    "slug": "valera-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.student.valeraapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5987b0f5-cc33-422d-97bf-e91c3307e7b0"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5987b0f5-cc33-422d-97bf-e91c3307e7b0"
+    },
+    "ios": {}
+  }
 }

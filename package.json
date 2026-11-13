@@ -5,6 +5,7 @@
     "@react-navigation/native": "^7.5.1",
     "expo": "~58.0.24",
     "expo-status-bar": "~58.0.5",
+    "expo-updates": "~58.0.22",
     "lucide-react-native": "^1.69.0",
     "react-native-safe-area-context": "~5.11.1",
     "react-native-screens": "~4.30.1",
